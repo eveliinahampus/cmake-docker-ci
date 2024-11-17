@@ -1,4 +1,4 @@
-# Learning experiment with Cmake and CI/CD
+# Learning experiment with Cmake and Docker
 
 ## Project structure
 
