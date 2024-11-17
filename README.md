@@ -3,14 +3,15 @@
 ## Project structure
 
 ```cmake-docker-ci/
-├── main.c
-├── README.md
-├── Dockerfile
-├── CMakeLists.txt
+cmake-docker-ci/
+├── .github/
+│   └── workflows/
+│       └── ci.yml
 ├── .gitignore
-└── .github/
-    └── workflows/
-        └── ci.yml
+├── CMakeLists.txt
+├── Dockerfile
+├── README.md
+└── main.c
 ```
 ## How to run the app? 
 1. Clone the repo `git clone https://github.com/eveliinahampus/cmake-docker-ci.git`
