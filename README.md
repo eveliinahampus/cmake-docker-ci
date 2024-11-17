@@ -10,6 +10,7 @@ cmake-docker-ci/
 ├── .gitignore
 ├── CMakeLists.txt
 ├── Dockerfile
+├── LICENSE
 ├── README.md
 └── main.c
 ```
