@@ -4,8 +4,10 @@
 
 ```cmake-docker-ci/
 ├── main.c
-├── CMakeLists.txt
+├── README.md
 ├── Dockerfile
+├── CMakeLists.txt
+├── .gitignore
 └── .github/
     └── workflows/
         └── ci.yml
