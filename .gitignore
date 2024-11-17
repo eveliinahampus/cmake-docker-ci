@@ -1,0 +1,17 @@
+# Ignore build artifacts and generated files
+build/
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+
+# Ignore editor and IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Ignore logs and temporary files
+*.log
+*.tmp
